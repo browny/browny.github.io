@@ -370,4 +370,5 @@ footer p + p {
   -webkit-border-radius: 50%; /* Can also be 50px */
   -moz-border-radius: 50%;
   border-radius: 50%;
+  float: left;
  }
