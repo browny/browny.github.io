@@ -362,7 +362,6 @@ footer p + p {
   -webkit-border-radius: 50%; /* Can also be 55px */
   -moz-border-radius: 50%;
   border-radius: 50%;
-  float: left;
  }
 
 .avatarBox img {
@@ -370,5 +369,4 @@ footer p + p {
   -webkit-border-radius: 50%; /* Can also be 50px */
   -moz-border-radius: 50%;
   border-radius: 50%;
-  float: left;
  }
