@@ -282,7 +282,7 @@ small {
 }
 
 hr {
-  border: 1;
+  border: 0;
   background: #000;
   height: 1px;
   margin: 0 0 20px;
