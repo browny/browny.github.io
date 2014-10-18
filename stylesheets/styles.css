@@ -360,7 +360,7 @@ footer p + p {
 
 /* Rounded avatars */
 .avatar {
-    float: left;
+    float: right;
     margin-top: 1em;
     margin-right: 1em;
     position: relative;
